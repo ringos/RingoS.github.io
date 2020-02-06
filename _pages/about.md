@@ -1,15 +1,26 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+  - /aboutme/
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Sen Yang. I am mainly interested in natural language processing and machine learning, especially information extraction and text generation in NLP. In June 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (a member of [C9 League](https://en.wikipedia.org/wiki/C9_League) in China), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
 
+
+Currently I am a visiting student at the Text Intelligence Lab in [Westlake University](https://www.wias.org.cn/english/), Hangzhou, China, under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). I am now working on:
+
+- Sentiment analysis. We exploit the correlation between review and summary for customer review sentiment analysis and propose a novel review-centric attention model for sentiment classification, which better models interactions between summary and customer's review. (Under review)
+- Text summarization. Motivated by the current stagnation in the area of text summarization, we propose to use an error-guided fine-grained human evaluation metric to obtain empirical analysis about recent summarization research. The main aim is to give new views from a more comprehensive perspective. Hopefully, our work can somehow provide hints for future research on text summarization. (Under review)
+
+
+I used to visit the School of Computer Science and Software Engineering at [the University of Western Australia](https://www.uwa.edu.au/) (UWA), where I worked with [Dr. Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I worked on the application of Abstract Meaning Representation (AMR) and proposed to incorporate AMR with graph embeddings for paraphrase identiﬁcation task.
+
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -48,3 +59,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
