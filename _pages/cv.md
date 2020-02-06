@@ -9,6 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+### Education
+* B.E. in Automation, School of Electrnoic and Information Engineering, Xi'an Jiaotong University
+  * Sept. 2013 - June 2019  (including two years' preparatory courses)
+  * [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)
+
+<!--
+Publication
+======
+To be add...
+
+Experience
+======
+*  Apr 2019 - Jan 2020: Visiting Student
+    * Text Intelligence Lab, Westlake University
+    * Supervised by Prof. Yue Zhang
+*  Jul 2018 - Sep 2018: Research Intern
+    * University of Western Australia 
+    * Supervised by Dr. Wei Liu
+* Oct 2017 - Dec 2017: Research Assistant  
+    * Institute of Artiﬁcial Intelligence and Robotics, Xi'an Jiaotong University
+    * Supervised by Dr. Meng Yang
+
+
+-->
+
+You can find my [CV]() here. 
+
+
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -57,3 +86,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
