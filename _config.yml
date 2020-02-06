@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sen Yang"
   avatar           : "github.png"
-  bio              : "行成于思，毁于随。"
+  bio              : "行成于思，毁于随。Actions are done after thorough consideration rather than casual decision."
   location         : "Hangzhou, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
