@@ -18,6 +18,7 @@ redirect_from:
 Publication
 ======
 To be add...
+-->
 
 Experience
 ======
@@ -32,9 +33,7 @@ Experience
     * Supervised by Dr. Meng Yang
 
 
--->
-
-You can find my [CV]() here. 
+You can find my [CV](https://RingoS.github.io/files/Sen_Yang_CV.pdf) here. 
 
 
 <!--
