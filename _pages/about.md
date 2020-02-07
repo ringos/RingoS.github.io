@@ -9,7 +9,9 @@ redirect_from:
   - /aboutme/
 ---
 
-My name is Sen Yang. I am mainly interested in natural language processing and machine learning, especially information extraction and text generation in NLP. In June 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (a member of [C9 League](https://en.wikipedia.org/wiki/C9_League) in China), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
+My name is Sen Yang. I am broadly interested in various sub-areas at the intersection between natural language processing and machine learning (e.g. information extraction, text generation, representation learning). 
+
+In June 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (a member of [C9 League](https://en.wikipedia.org/wiki/C9_League) in China), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
 
 
 Currently I am a visiting student at the Text Intelligence Lab in [Westlake University](https://www.wias.org.cn/english/), Hangzhou, China, under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). I am now working on:
@@ -18,7 +20,7 @@ Currently I am a visiting student at the Text Intelligence Lab in [Westlake Univ
 - Text summarization. Motivated by the current stagnation in the area of text summarization, we propose to use an error-guided fine-grained human evaluation metric to obtain empirical analysis about recent summarization research. The main aim is to give new views from a more comprehensive perspective. Hopefully, our work can somehow provide hints for future research on text summarization. (Under review)
 
 
-I used to visit the School of Computer Science and Software Engineering at [the University of Western Australia](https://www.uwa.edu.au/) (UWA), where I worked with [Dr. Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I worked on the application of Abstract Meaning Representation (AMR) and proposed to incorporate AMR with graph embeddings for paraphrase identiﬁcation task.
+In the summer of 2018, I was a research intern at the School of Computer Science and Software Engineering at [the University of Western Australia](https://www.uwa.edu.au/) (UWA), where I worked with [Dr. Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also spent a great summer in [RWTH Aachen Univerisity](https://www.rwth-aachen.de/) in 2017, working on Robotics and Control Theory. 
 
 <!--
 A data-driven personal website
