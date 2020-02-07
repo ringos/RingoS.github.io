@@ -28,9 +28,12 @@ Experience
 *  Jul 2018 - Sep 2018: Research Intern
     * University of Western Australia 
     * Supervised by Dr. Wei Liu
-* Oct 2017 - Dec 2017: Research Assistant  
+*  Oct 2017 - Dec 2017: Research Assistant  
     * Institute of Artiﬁcial Intelligence and Robotics, Xi'an Jiaotong University
     * Supervised by Dr. Meng Yang
+*  Jul 2017 - Aug 2017: Visiting Student
+    * Institute of Information Management in Mechanical Engineering, RWTH Aachen University
+    * Summer School Program: Robotics for Future Industrial Applications
 
 
 You can find my [CV](https://RingoS.github.io/files/Sen_Yang_CV.pdf) here. 
