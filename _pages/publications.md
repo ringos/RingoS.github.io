@@ -10,12 +10,12 @@ author_profile: true
 * **UsingBothReviewandSummaryforBetterSentimentAnalysis**  
   Under review
 
-  Sen Yang*, Leyang Cui* and Yue Zhang
+  Sen Yang\*, Leyang Cui\* and Yue Zhang
 
 * **WhatHaveWeAchievedonTextSummarization?**   
   Under review
 
-  Sen Yang*, Dandan Huang*, Leyang Cui*, Guangsheng Bao and Yue Zhang
+  Sen Yang\*, Dandan Huang\*, Leyang Cui\*, Guangsheng Bao and Yue Zhang
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
