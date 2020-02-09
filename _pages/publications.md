@@ -4,8 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+ \* indicates equal contribution
 
-Two in peer-review.
+* **UsingBothReviewandSummaryforBetterSentimentAnalysis** Under review
+  Sen Yang*, Leyang Cui* and Yue Zhang
+
+* **WhatHaveWeAchievedonTextSummarization?** Under review
+  Sen Yang*, Dandan Huang*, Leyang Cui*, Guangsheng Bao and Yue Zhang
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
