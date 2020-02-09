@@ -9,7 +9,7 @@ redirect_from:
   - /aboutme/
 ---
 
-My name is Sen Yang (杨森 in Chinese). I am broadly interested in various sub-areas at the intersection between natural language processing and machine learning (e.g. information extraction, text generation, representation learning). 
+My name is Sen Yang (杨森 in Chinese). I am interested in various sub-areas at the intersection between natural language processing and machine learning (e.g. information extraction, text generation, representation learning). 
 
 In June 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (a member of [C9 League](https://en.wikipedia.org/wiki/C9_League) in China), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
 
