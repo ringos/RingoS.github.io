@@ -7,13 +7,11 @@ author_profile: true
 
  \* indicates equal contribution
 
-* **UsingBothReviewandSummaryforBetterSentimentAnalysis**  
-  Under review
+* **Using Both Review and Summary for Better Sentiment Analysis**  Under review
 
   Sen Yang\*, Leyang Cui\* and Yue Zhang
 
-* **WhatHaveWeAchievedonTextSummarization?**   
-  Under review
+* **What Have We Achieved on Text Summarization?**   Under review
 
   Sen Yang\*, Dandan Huang\*, Leyang Cui\*, Guangsheng Bao and Yue Zhang
 
