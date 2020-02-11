@@ -15,7 +15,7 @@ My name is Sen Yang (杨森 in Chinese). I am interested in various sub-areas at
 In June 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (a member of [C9 League](https://en.wikipedia.org/wiki/C9_League) in China), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
 
 
-Currently I am a visiting student at the Text Intelligence Lab in [Westlake University](https://www.wias.org.cn/english/), Hangzhou, China, under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). I am now working on:
+Currently I am a visiting student at the Text Intelligence Lab in [Westlake University](https://www.wias.org.cn/english/), Hangzhou, China, under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). I am working on:
 
 - Sentiment analysis. We exploit the correlation between review and summary for customer review sentiment analysis and propose a novel review-centric attention model for sentiment classification, which better models interactions between summary and customer's review. (Under review)
 - Text summarization. Motivated by the current stagnation in the area of text summarization, we propose to use an error-guided fine-grained human evaluation metric to obtain empirical analysis about recent summarization research. The main aim is to give new views from a more comprehensive perspective. Hopefully, our work can somehow provide hints for future research on text summarization. (Under review)
