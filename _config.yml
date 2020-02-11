@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sen YANG's Homepage"
 title_separator          : "-"
-name                     : &name "Sen Yang  杨森"
+name                     : &name "Sen Yang"
 description              : &description "personal description"
 url                      : https://RingoS.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
