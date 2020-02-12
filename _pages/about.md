@@ -12,7 +12,7 @@ redirect_from:
 My name is Sen Yang (杨森 in Chinese). My research interests lie in various sub-areas at the intersection between natural language processing and machine learning (e.g. information extraction, text generation, representation learning). I am especially interested in NLP applications on social media, e-commerce and finance. 
 
 
-In June 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (a member of [C9 League](https://en.wikipedia.org/wiki/C9_League) in China), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
+In June 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (a member of [C9 League](https://en.wikipedia.org/wiki/C9_League) in Mainland China), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
 
 
 Currently I am a visiting student at the Text Intelligence Lab in [Westlake University](https://www.wias.org.cn/english/), Hangzhou, China, under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). I am working on:
