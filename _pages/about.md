@@ -9,21 +9,15 @@ redirect_from:
   - /aboutme/
 ---
 
-My name is Sen Yang (杨森 in Chinese). My research interests lie in various sub-areas at the intersection between natural language processing and machine learning (e.g. information extraction, text generation, representation learning). I am especially interested in NLP applications on social media, e-commerce and finance. 
+My name is Sen Yang (杨森 in Chinese). My research interests lie in various sub-areas at the intersection between natural language processing and machine learning (e.g. information extraction, text summarization, representation learning). I am especially interested in NLP applications regarding social media and e-commerce. 
 
 
-In June 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) (a member of [C9 League](https://en.wikipedia.org/wiki/C9_League) in Mainland China), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
+In 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
 
 
-Currently I am a visiting student at the Text Intelligence Lab in [Westlake University](https://www.wias.org.cn/english/), Hangzhou, China, under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). I am working on:
-
-- Sentiment analysis. We exploit the correlation between review and summary for customer review sentiment analysis and propose a novel review-centric attention model for sentiment classification, which better models interactions between summary and customer's review. (Under review)
-- Text summarization. Motivated by the current stagnation in the area of text summarization, we propose to use an error-guided fine-grained human evaluation metric to obtain empirical analysis about recent summarization research. The main aim is to give new views from a more comprehensive perspective. Hopefully, our work can somehow provide hints for future research on text summarization. (Under review)
-
+Currently I am a visiting student at the Text Intelligence Lab in [Westlake University](https://www.wias.org.cn/english/), Hangzhou, China, under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). 
 
 In the summer of 2018, I was a research intern at the School of Computer Science and Software Engineering at [the University of Western Australia](https://www.uwa.edu.au/) (UWA), where I worked with [Dr. Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also spent a great summer in [RWTH Aachen Univerisity](https://www.rwth-aachen.de/) in 2017, working on Robotics and Control Theory.
-
-(I can be reached at either \[senyang.stu@gmail.com\] or \[lusasa0@stu.xjtu.edu.cn\].)
 
 <!--
 A data-driven personal website
