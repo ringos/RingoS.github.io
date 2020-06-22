@@ -9,7 +9,7 @@ redirect_from:
   - /aboutme/
 ---
 
-My name is Sen Yang (杨森 in Chinese). My research interests lie in various sub-areas at the intersection between natural language processing and machine learning (e.g. information extraction, text summarization, representation learning). I am especially interested in NLP applications regarding social media and e-commerce. 
+My name is Sen Yang (杨森 in Chinese). My research interests lie in various sub-areas at the intersection between natural language processing and machine learning (e.g. information extraction, text generation, representation learning). I am especially interested in NLP applications regarding social media. 
 
 
 In 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
