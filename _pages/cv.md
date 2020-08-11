@@ -36,7 +36,7 @@ To be add...
     * Summer School Program: Robotics for Future Industrial Applications
 
 
-You can find my [CV](https://RingoS.github.io/files/Sen_Yang_CV.pdf) here. 
+You can find my [CV](https://ringos.github.io/files/Sen_Yang_CV.pdf) here.
 
 
 <!--
