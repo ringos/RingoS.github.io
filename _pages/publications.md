@@ -5,22 +5,23 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Conference Papers
 
-## Published Work
-
-To be added.
-
-## Unpublished Work
-
-* **Using Both Review and Summary for Better Sentiment Analysis** 
-
-  Sen Yang\*, Leyang Cui\* and Yue Zhang
-
-* **What Have We Achieved on Text Summarization?** 
-
-  Sen Yang\*, Dandan Huang\*, Leyang Cui\*, Guangsheng Bao and Yue Zhang
+* **What Have We Achieved on Text Summarization?** \
+  In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020 \
+  ( ''\*'' indicates equal contribution)\
+  Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang
   
-\* indicates equal contribution
+
+## Preprints
+
+* **Using Both Review and Summary for Better Sentiment Analysis** \
+  ( ''\*'' indicates equal contribution)\
+  **Sen Yang\***, Leyang Cui\* and Yue Zhang
+
+
+  
+
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
