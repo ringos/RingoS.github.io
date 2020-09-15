@@ -9,10 +9,7 @@ redirect_from:
   - /aboutme/
 ---
 
-My name is Sen Yang (杨森 in Chinese). My research interests lie in various sub-areas at the intersection between natural language processing and machine learning (e.g. information extraction, text generation, representation learning). I am especially interested in NLP applications regarding social media. 
-
-
-In 2019, I obtained my bachelor degree from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), where I was in the [Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) (also known as Special Class for the Gifted Young).
+Hi, I am Sen Yang (杨森 in Chinese). I am mainly interested in natural language processing and machine learning.
 
 
 Currently I am working on a post-processing framework to address factual-inconsistency issue in text summarization, under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). I used to be a research intern at Prof. Zhang's lab, working on two projects regarding sentiment analysis and text summarization, respectively.
