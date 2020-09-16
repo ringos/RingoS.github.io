@@ -30,9 +30,11 @@ To be add...
 *  Oct 2017 - Dec 2017: Research Assistant  
     * Institute of Artiﬁcial Intelligence and Robotics, Xi'an Jiaotong University
     * Supervised by Dr. Meng Yang
-*  Jul 2017 - Aug 2017: Visiting Student
+
+    
+<!-- *  Jul 2017 - Aug 2017: Visiting Student
     * Institute of Information Management in Mechanical Engineering, RWTH Aachen University
-    * Summer School Program: Robotics for Future Industrial Applications
+    * Summer School Program: Robotics for Future Industrial Applications -->
 
 
 <!-- You can find my [CV](https://ringos.github.io/files/Sen_Yang_CV.pdf) here. -->
