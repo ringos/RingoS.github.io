@@ -5,22 +5,27 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference Papers
+
+
+
+## Published Paper
+
+  ( * indicates equal contribution)
+
+* **Making the Best Use of Review Summary for Sentiment Analysis** \
+  In Proceedings of the 28th International Conference on Computational
+               Linguistics (COLING), 2020 \
+  **Sen Yang\***, Leyang Cui\*, Jun Xie and Yue Zhang
 
 * **What Have We Achieved on Text Summarization?** \
   In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020 \
-  ( ''\*'' indicates equal contribution)\
   Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang
-  
-
-## Preprints
-
-* **Using Both Review and Summary for Better Sentiment Analysis** \
-  ( ''\*'' indicates equal contribution)\
-  **Sen Yang\***, Leyang Cui\* and Yue Zhang
 
 
-  
+## Preprint
+
+  ( * indicates equal contribution)
+
 
 
 {% if author.googlescholar %}
