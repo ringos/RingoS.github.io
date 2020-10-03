@@ -9,11 +9,10 @@ redirect_from:
   - /aboutme/
 ---
 
-Hi, I am Sen Yang (杨森 in Chinese). I am mainly interested in natural language processing and machine learning.
+Hi, I am Sen Yang. I am interested in natural language processing and machine learning. 
 
 
-Currently I am working on a post-processing framework to address factual-inconsistency issue in text summarization, under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). I used to be a research intern at Prof. Zhang's lab, working on two projects regarding sentiment analysis and text summarization, respectively.
-
+I used to be a research intern at [Prof. Yue Zhang](https://frcchang.github.io/)'s lab, working on sentiment analysis and text summarization. 
 In the summer of 2018, I was a research intern at the School of Computer Science and Software Engineering at [the University of Western Australia](https://www.uwa.edu.au/) (UWA), where I worked with [Dr. Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also spent a great summer in [RWTH Aachen Univerisity](https://www.rwth-aachen.de/) in 2017, working on Robotics and Control Theory.
 
 <!--
