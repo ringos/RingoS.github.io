@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* B.E. in Automation ([Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young) ), School of Electronic and Information Engineering, Xi'an Jiaotong University
+* B.E. in Automation ([Honors Youth Program](https://en.wikipedia.org/wiki/Special_Class_for_the_Gifted_Young)) 
+  * School of Electronic and Information Engineering, Xi'an Jiaotong University, China
   * Sept. 2013 - June 2019  (including two years' preparatory courses specially designed for Honors Youth Program
 
 <!--
