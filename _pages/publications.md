@@ -12,9 +12,8 @@ author_profile: true
 
   ( * indicates equal contribution)
 
-* **Making the Best Use of Review Summary for Sentiment Analysis** \
-  In Proceedings of the 28th International Conference on Computational
-               Linguistics (COLING), 2020 \
+* **Making the Best Use of Review Summary for Sentiment Analysis** [[pdf](https://ringos.github.io/files/coling2020_sentiment.pdf)] \
+  In Proceedings of the 28th International Conference on Computational Linguistics (COLING), 2020 \
   **Sen Yang\***, Leyang Cui\*, Jun Xie and Yue Zhang
 
 * **What Have We Achieved on Text Summarization?** [[pdf](https://ringos.github.io/files/polytope_full_paper.pdf)] \
