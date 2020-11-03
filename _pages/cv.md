@@ -21,7 +21,9 @@ To be add...
 -->
 
 ## Experience
-
+*  Oct 2020 - Now: Research Assistant
+    * Text Intelligence Lab, Westlake University
+    * Supervised by Prof. Yue Zhang
 *  Apr 2019 - Jan 2020: Visiting Student
     * Text Intelligence Lab, Westlake University
     * Supervised by Prof. Yue Zhang
