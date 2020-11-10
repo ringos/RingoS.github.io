@@ -16,7 +16,7 @@ author_profile: true
   In Proceedings of the 28th International Conference on Computational Linguistics (COLING), 2020 \
   **Sen Yang\***, Leyang Cui\*, Jun Xie and Yue Zhang
 
-* **What Have We Achieved on Text Summarization?** [[pdf](https://ringos.github.io/files/polytope_full_paper.pdf)] \
+* **What Have We Achieved on Text Summarization?** [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.33.pdf)] \
   In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020 \
   Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang
 
