@@ -12,11 +12,11 @@ author_profile: true
 
   ( * indicates equal contribution)
 
-* **Making the Best Use of Review Summary for Sentiment Analysis** [[pdf](https://www.aclweb.org/anthology/2020.coling-main.15.pdf)][bib](https://www.aclweb.org/anthology/2020.coling-main.15.bib) \
+* **Making the Best Use of Review Summary for Sentiment Analysis** [[pdf](https://www.aclweb.org/anthology/2020.coling-main.15.pdf)] [[bib](https://www.aclweb.org/anthology/2020.coling-main.15.bib)] \
   In Proceedings of the 28th International Conference on Computational Linguistics (COLING), 2020 \
   **Sen Yang\***, Leyang Cui\*, Jun Xie and Yue Zhang
 
-* **What Have We Achieved on Text Summarization?** [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.33.pdf)][bib](https://www.aclweb.org/anthology/2020.emnlp-main.33.bib) \
+* **What Have We Achieved on Text Summarization?** [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.33.pdf)] [[bib](https://www.aclweb.org/anthology/2020.emnlp-main.33.bib)] \
   In Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020 \
   Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang
 
