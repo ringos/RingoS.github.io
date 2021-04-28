@@ -21,23 +21,22 @@ To be add...
 -->
 
 ## Experience
-*  Oct 2020 - Now: Research Assistant
-    * Text Intelligence Lab, Westlake University
+*  Oct 2020 - Now
+    * Research Assistant at Text Intelligence Lab, Westlake University
     * Supervised by Prof. Yue Zhang
-*  Apr 2019 - Jan 2020: Undergraduate Research Intern
-    * Text Intelligence Lab, Westlake University
+*  Apr 2019 - Jan 2020
+    * Undergraduate Research Intern at Text Intelligence Lab, Westlake University
     * Supervised by Prof. Yue Zhang
-*  Jul 2018 - Sep 2018: Research Intern
-    * University of Western Australia 
+*  Jul 2018 - Sep 2018
+    * Undergraduate Research Intern at University of Western Australia 
     * Supervised by Dr. Wei Liu
-*  Oct 2017 - Dec 2017: Research Assistant  
-    * Institute of Artiﬁcial Intelligence and Robotics, Xi'an Jiaotong University
+*  Oct 2017 - Dec 2017
+    * Undergraduate Research Intern at Institute of Artiﬁcial Intelligence and Robotics, Xi'an Jiaotong University
     * Supervised by Dr. Meng Yang
 
-    
-<!-- *  Jul 2017 - Aug 2017: Visiting Student
-    * Institute of Information Management in Mechanical Engineering, RWTH Aachen University
-    * Summer School Program: Robotics for Future Industrial Applications -->
+* Jul 2017 - Aug 2017
+    * Visiting Student at Institute of Information Management in Mechanical Engineering, RWTH Aachen University, Germany
+    * Summer School Program: Robotics for Future Industrial Applications
 
 
 <!-- You can find my [CV](https://ringos.github.io/files/Sen_Yang_CV.pdf) here. -->
