@@ -13,7 +13,7 @@ author_profile: true
   ( * indicates equal contribution)
 
 * **Template-Based Named Entity Recognition Using BART** [[pdf](https://ringos.github.io/publications/)] [[bib](https://ringos.github.io/publications/)] \
-  in Findings of the 58th Annual Meeting of the Association for Computational Linguistics (ACL), 2021 \
+  in Findings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL), 2021 \
   Leyang Cui, Yu Wu, Jian Liu, **Sen Yang** and Yue Zhang
 
 * **Making the Best Use of Review Summary for Sentiment Analysis** [[pdf](https://www.aclweb.org/anthology/2020.coling-main.15.pdf)] [[bib](https://www.aclweb.org/anthology/2020.coling-main.15.bib)] \
