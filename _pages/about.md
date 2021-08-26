@@ -9,13 +9,12 @@ redirect_from:
   - /aboutme/
 ---
 
-Hi, I am Sen Yang. I am interested in natural language processing and machine learning. 
+Hi, I am Sen Yang. I am interested in natural language processing. 
 
-I am a research assistant in [Prof. Yue Zhang](https://frcchang.github.io/)'s lab. 
+Currently I am a research assistant in [Prof. Yue Zhang](https://frcchang.github.io/)'s lab. 
 Before that, I obtained my bachelor degree from Xi'an Jiaotong University, China. 
+I will join [CUHK Text Mining Group](https://www1.se.cuhk.edu.hk/~textmine/) for PhD study next year. 
 
-I used to be an undergraduate research intern at Prof. Yue Zhang's lab, working on sentiment analysis and text summarization. 
-In the summer of 2018, I was a research intern at the School of Computer Science and Software Engineering at [the University of Western Australia](https://www.uwa.edu.au/) (UWA), where I worked with [Dr. Wei Liu](https://research-repository.uwa.edu.au/en/persons/wei-liu). I also spent a great summer in [RWTH Aachen Univerisity](https://www.rwth-aachen.de/) in 2017, working on Robotics and Control Theory.
 
 <!--
 A data-driven personal website
