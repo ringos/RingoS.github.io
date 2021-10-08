@@ -13,7 +13,7 @@ Hi, I am Sen Yang. I am interested in natural language processing.
 
 Currently I am a research assistant in [Prof. Yue Zhang](https://frcchang.github.io/)'s lab. 
 Before that, I obtained my bachelor degree from Xi'an Jiaotong University, China. 
-I will join [CUHK Text Mining Group](https://www1.se.cuhk.edu.hk/~textmine/) for PhD study next year. 
+<!-- I will join [CUHK Text Mining Group](https://www1.se.cuhk.edu.hk/~textmine/) for PhD study next year.  -->
 
 
 <!--
