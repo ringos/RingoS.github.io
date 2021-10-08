@@ -29,6 +29,9 @@ author_profile: true
 
   ( * indicates equal contribution)
 
+* **Investigating Non-local Features for Neural Constituency Parsing** [[pdf](https://arxiv.org/abs/2109.12814)]  \
+  arXiv prepreint \
+  Leyang Cui\*, **Sen Yang\*** and Yue Zhang
 
 
 {% if author.googlescholar %}
