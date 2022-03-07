@@ -11,9 +11,48 @@ redirect_from:
 
 Hi, I am Sen Yang. I am interested in natural language processing. 
 
-Currently I am a research assistant in [Prof. Yue Zhang](https://frcchang.github.io/)'s lab. 
-Before that, I obtained my bachelor degree from Xi'an Jiaotong University, China. 
-<!-- I will join [CUHK Text Mining Group](https://www1.se.cuhk.edu.hk/~textmine/) for PhD study next year.  -->
+
+# Publications
+
+## Published
+
+  ( * indicates equal contribution)
+
+
+* **Challenges to Open-Domain Constituency Parsing** \
+  in Findings of ACL, 2022 \
+  **Sen Yang**, Leyang Cui, Ruoxi Ning, Di Wu and Yue Zhang
+
+* **Investigating Non-local Features for Neural Constituency Parsing** \
+  in Proceedings of ACL, 2022 \
+  Leyang Cui\*, **Sen Yang\*** and Yue Zhang
+
+* **Template-Based Named Entity Recognition Using BART** [[pdf](https://aclanthology.org/2021.findings-acl.161.pdf)] [[bib](https://aclanthology.org/2021.findings-acl.161.bib)] \
+  in Findings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL), 2021 \
+  Leyang Cui, Yu Wu, Jian Liu, **Sen Yang** and Yue Zhang
+
+* **Making the Best Use of Review Summary for Sentiment Analysis** [[pdf](https://www.aclweb.org/anthology/2020.coling-main.15.pdf)] [[bib](https://www.aclweb.org/anthology/2020.coling-main.15.bib)] \
+  in Proceedings of the 28th International Conference on Computational Linguistics (COLING), 2020 \
+  **Sen Yang\***, Leyang Cui\*, Jun Xie and Yue Zhang
+
+* **What Have We Achieved on Text Summarization?** [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.33.pdf)] [[bib](https://www.aclweb.org/anthology/2020.emnlp-main.33.bib)] \
+  in Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020 \
+  Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang
+
+
+## Preprint
+
+  ( * indicates equal contribution)
+
+
+<!-- * **Do Prompts Solve NLP Tasks Using Natural Language?** [[pdf](https://arxiv.org/abs/2203.00902)]  \
+  arXiv prepreint \
+  Leyang Cui\*, **Sen Yang\*** and Yue Zhang -->
+
+<!-- * **Investigating Non-local Features for Neural Constituency Parsing** [[pdf](https://arxiv.org/abs/2109.12814)]  \
+  arXiv prepreint \
+  Leyang Cui\*, **Sen Yang\*** and Yue Zhang -->
+
 
 
 <!--
