@@ -9,10 +9,49 @@ redirect_from:
   - /aboutme/
 ---
 
+  
+***
+  
+# About Me
+
 Hi, I am Sen Yang. I am interested in natural language processing. 
 
+  
+  
+***
+  
 
-# Publications
+# Publications  
+**( * indicates equal contribution)**  
+## Published  
+* **Challenges to Open-Domain Constituency Parsing** \
+  *Findings of ACL 2022* \
+  **Sen Yang**, Leyang Cui, Ruoxi Ning, Di Wu and Yue Zhang
+
+* **Investigating Non-local Features for Neural Constituency Parsing** \
+  *Proceedings of ACL 2022* \
+  Leyang Cui\*, **Sen Yang\*** and Yue Zhang
+
+* [**Template-Based Named Entity Recognition Using BART**](https://aclanthology.org/2021.findings-acl.161) \
+  *Findings of ACL 2021* \
+  Leyang Cui, Yu Wu, Jian Liu, **Sen Yang** and Yue Zhang
+
+* [**Making the Best Use of Review Summary for Sentiment Analysis**](https://www.aclweb.org/anthology/2020.coling-main.15)  \
+  *Proceedings of COLING 2020* \
+  **Sen Yang\***, Leyang Cui\*, Jun Xie and Yue Zhang
+
+* [**What Have We Achieved on Text Summarization?**](https://www.aclweb.org/anthology/2020.emnlp-main.33)  \
+  *Proceedings of EMNLP 2020* \
+  Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang
+
+
+## Preprint  
+
+  * [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)   \
+  *arXiv preprint* \
+  **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang
+
+<!-- # Publications
 
 ## Published
 
@@ -42,12 +81,9 @@ Hi, I am Sen Yang. I am interested in natural language processing.
 
 ## Preprint
 
-  ( * indicates equal contribution)
+  ( * indicates equal contribution) -->
 
 
-<!-- * **Do Prompts Solve NLP Tasks Using Natural Language?** [[pdf](https://arxiv.org/abs/2203.00902)]  \
-  arXiv prepreint \
-  Leyang Cui\*, **Sen Yang\*** and Yue Zhang -->
 
 <!-- * **Investigating Non-local Features for Neural Constituency Parsing** [[pdf](https://arxiv.org/abs/2109.12814)]  \
   arXiv prepreint \
