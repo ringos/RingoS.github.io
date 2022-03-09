@@ -9,16 +9,19 @@ redirect_from:
   - /aboutme/
 ---
 
-  
-***
-  
-# About Me
+
 
 Hi, I am Sen Yang. I am interested in natural language processing. 
 
   
   
-***
+&nbsp;  
+  
+&nbsp;  
+  
+&nbsp;  
+  
+&nbsp;  
   
 
 # Publications  
