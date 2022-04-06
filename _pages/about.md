@@ -21,8 +21,6 @@ Hi, I am Sen Yang. I am interested in natural language processing.
   
 &nbsp;  
   
-&nbsp;  
-  
 
 # Publications  
 **( * indicates equal contribution)**  
