@@ -23,13 +23,21 @@ Hi, I am Sen Yang. I am interested in natural language processing.
   
 
 # Publications  
-**( * indicates equal contribution)**  
+**( * = equal contribution)**  
+
+## Preprint  
+
+  * [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)   \
+  *arXiv preprint* \
+  **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang
+
+
 ## Published  
-* **Challenges to Open-Domain Constituency Parsing** \
+* [**Challenges to Open-Domain Constituency Parsing**](https://aclanthology.org/2022.findings-acl.11/) \
   *Findings of ACL 2022* \
   **Sen Yang**, Leyang Cui, Ruoxi Ning, Di Wu and Yue Zhang
 
-* **Investigating Non-local Features for Neural Constituency Parsing** \
+* [**Investigating Non-local Features for Neural Constituency Parsing**](https://aclanthology.org/2022.acl-long.146/) \
   *Proceedings of ACL 2022* \
   Leyang Cui\*, **Sen Yang\*** and Yue Zhang
 
@@ -46,11 +54,6 @@ Hi, I am Sen Yang. I am interested in natural language processing.
   Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang
 
 
-## Preprint  
-
-  * [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)   \
-  *arXiv preprint* \
-  **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang
 
 <!-- # Publications
 
