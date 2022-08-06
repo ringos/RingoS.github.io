@@ -1,7 +1,9 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+# title: "About me"
+title: ""
+# excerpt: "About me"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +13,7 @@ redirect_from:
 
 
 
-Hi, I am Sen Yang. I am interested in natural language processing. 
+Hi, I am a PhD student in Chinese University of Hong Kong. My advisor is [Prof.Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interest lies in natural language processing. 
 
   
   
@@ -19,7 +21,7 @@ Hi, I am Sen Yang. I am interested in natural language processing.
   
 &nbsp;  
   
-&nbsp;  
+<!-- &nbsp;   -->
   
 
 # Publications  
