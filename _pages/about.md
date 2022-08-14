@@ -13,8 +13,10 @@ redirect_from:
 
 
 
-Hi, I am a PhD student in the Chinese University of Hong Kong. My advisor is [Prof.Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interest lies in natural language processing. 
+Hi, I am a PhD student at the Chinese University of Hong Kong. My advisor is Prof.[Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interest lies in natural language processing. I used to be a research assistant in Prof.[Yue Zhang](https://frcchang.github.io/)'s lab. Even before that, I got my bachelor degree from Xi'an Jiaotong University.
 
+
+Email: senyang [DOT] stu [AT] gmail [DOT] com
   
   
 &nbsp;  
