@@ -31,29 +31,29 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 
 ## Preprint  
 
-  * [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)   \
+  * [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)  \
   *arXiv preprint* \
   **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang
 
 
 ## Published  
-* [**Challenges to Open-Domain Constituency Parsing**](https://aclanthology.org/2022.findings-acl.11/) \
+* [**Challenges to Open-Domain Constituency Parsing**](https://aclanthology.org/2022.findings-acl.11/) [[Code/Data]](https://github.com/RingoS/multi-domain-parsing-analysis) \
   *Findings of ACL 2022* \
   **Sen Yang**, Leyang Cui, Ruoxi Ning, Di Wu and Yue Zhang
 
-* [**Investigating Non-local Features for Neural Constituency Parsing**](https://aclanthology.org/2022.acl-long.146/) \
+* [**Investigating Non-local Features for Neural Constituency Parsing**](https://aclanthology.org/2022.acl-long.146/)  [[[Code/Data]](https://github.com/RingoS/nfc-parser) \
   *Proceedings of ACL 2022* \
   Leyang Cui\*, **Sen Yang\*** and Yue Zhang
 
-* [**Template-Based Named Entity Recognition Using BART**](https://aclanthology.org/2021.findings-acl.161) \
+* [**Template-Based Named Entity Recognition Using BART**](https://aclanthology.org/2021.findings-acl.161) [[[Code/Data]](https://github.com/Nealcly/templateNER) \
   *Findings of ACL 2021* \
   Leyang Cui, Yu Wu, Jian Liu, **Sen Yang** and Yue Zhang
 
-* [**Making the Best Use of Review Summary for Sentiment Analysis**](https://www.aclweb.org/anthology/2020.coling-main.15)  \
+* [**Making the Best Use of Review Summary for Sentiment Analysis**](https://www.aclweb.org/anthology/2020.coling-main.15) [[[Code/Data]](https://github.com/RingoS/sentiment-review-summary) \
   *Proceedings of COLING 2020* \
   **Sen Yang\***, Leyang Cui\*, Jun Xie and Yue Zhang
 
-* [**What Have We Achieved on Text Summarization?**](https://www.aclweb.org/anthology/2020.emnlp-main.33)  \
+* [**What Have We Achieved on Text Summarization?**](https://www.aclweb.org/anthology/2020.emnlp-main.33)  [[[Code/Data]](https://github.com/hddbang/PolyTope) \
   *Proceedings of EMNLP 2020* \
   Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang
 
