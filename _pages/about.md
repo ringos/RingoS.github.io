@@ -39,7 +39,7 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 ## Published 
 
 * **Cross-domain Generalization for AMR Parsing** \
-  Xuefeng Bai, **Sen Yang**, Leyang Cui and Yue Zhang \
+  Xuefeng Bai, **Sen Yang**, Leyang Cui, Linfeng Song and Yue Zhang \
   *Proceedings of EMNLP 2022*
 
 * [**Challenges to Open-Domain Constituency Parsing**](https://aclanthology.org/2022.findings-acl.11/) \
