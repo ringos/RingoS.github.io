@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-Hi, I am a PhD student at The Chinese University of Hong Kong, advised by Prof.[Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interest lies in natural language processing. I used to be a research assistant in Prof.[Yue Zhang](https://frcchang.github.io/)'s lab. Even before that, I got my bachelor degree from Xi'an Jiaotong University in 2019.
+Hi, I am a PhD student at The Chinese University of Hong Kong, advised by [Prof.Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interest lies in natural language processing. I used to be a research assistant, supervised by [Prof.Yue Zhang](https://frcchang.github.io/). Even before that, I got my bachelor degree from Xi'an Jiaotong University.
 
 
 Email: senyang [DOT] stu [AT] gmail [DOT] com
@@ -29,21 +29,16 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 # Publications  
 **( * = equal contribution)**  
 
-## Preprint  
-
-  * [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)  \
-  **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang \
-  *arXiv preprint* 
-
 
 ## Published 
 
-* **Cross-domain Generalization for AMR Parsing** \
+* [**Cross-domain Generalization for AMR Parsing**](https://arxiv.org/abs/2210.12445) \
+  [[Code]](https://github.com/goodbai-nlp/AMR-DomainAdaptation) \
   Xuefeng Bai, **Sen Yang**, Leyang Cui, Linfeng Song and Yue Zhang \
   *Proceedings of EMNLP 2022*
 
 * [**Challenges to Open-Domain Constituency Parsing**](https://aclanthology.org/2022.findings-acl.11/) \
-  [[Data]](https://github.com/RingoS/multi-domain-parsing-analysis) \
+  [[Data]](https://github.com/RingoS/multi-domain-parsing-analysis) &nbsp;  [[Annotation_Toolkit]](https://github.com/Nealcly/AnnoCons) \
   **Sen Yang**, Leyang Cui, Ruoxi Ning, Di Wu and Yue Zhang \
   *Findings of ACL 2022* 
 
@@ -66,6 +61,13 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 [[Code & Data]](https://github.com/hddbang/PolyTope) \
   Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang \
   *Proceedings of EMNLP 2020* 
+
+
+## Preprint  
+
+  * [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)  \
+  **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang \
+  *arXiv preprint 2022* 
 
 
 
