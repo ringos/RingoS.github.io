@@ -32,7 +32,12 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 
 ## Published 
 
-* [**Cross-domain Generalization for AMR Parsing**](https://arxiv.org/abs/2210.12445) \
+* [**Enhancing Grammatical Error Correction Systems with Explanations**](https://aclanthology.org/2023.acl-long.413/) \
+  [[Dataset]](https://github.com/lorafei/Explainable_GEC) \
+  Yuejiao Fei, Leyang Cui, **Sen Yang**, Wai Lam, Zhenzhong Lan and Shuming Shi \
+  *Proceedings of ACL 2023*
+
+* [**Cross-domain Generalization for AMR Parsing**](https://aclanthology.org/2022.emnlp-main.749/) \
   [[Code]](https://github.com/goodbai-nlp/AMR-DomainAdaptation) \
   Xuefeng Bai, **Sen Yang**, Leyang Cui, Linfeng Song and Yue Zhang \
   *Proceedings of EMNLP 2022*
