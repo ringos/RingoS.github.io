@@ -32,6 +32,11 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 
 ## Published 
 
+* [**Once Upon a *Time* in *Graph*: Relative-Time Pretraining for Complex Temporal Reasoning**](https://arxiv.org/abs/2310.14709) \
+  [[Code]](https://github.com/DAMO-NLP-SG/RemeMo) \
+  **Sen Yang**, Xin Li, Lidong Bing, Wai Lam \
+  *Proceedings of EMNLP 2023*
+
 * [**Enhancing Grammatical Error Correction Systems with Explanations**](https://aclanthology.org/2023.acl-long.413/) \
   [[Dataset]](https://github.com/lorafei/Explainable_GEC) \
   Yuejiao Fei, Leyang Cui, **Sen Yang**, Wai Lam, Zhenzhong Lan and Shuming Shi \
