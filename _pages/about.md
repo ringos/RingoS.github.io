@@ -26,14 +26,26 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 <!-- &nbsp;   -->
   
 
-# Publications  
+# Research Papers  
 **( * = equal contribution)**  
 
 
-## Published 
+## Preprints
+
+  * [**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802)  \
+    [[Code]](https://github.com/DAMO-NLP-SG/CaRing) \
+    **Sen Yang**, Xin Li, Leyang Cui, Lidong Bing, Wai Lam \
+    *arXiv preprint 2023* 
+
+  * [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)  \
+  **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang \
+  *arXiv preprint 2022* 
+
+
+## Publications
 
 * [**Once Upon a *Time* in *Graph*: Relative-Time Pretraining for Complex Temporal Reasoning**](https://arxiv.org/abs/2310.14709) \
-  [[Code]](https://github.com/DAMO-NLP-SG/RemeMo) \
+  [[Code]](https://github.com/DAMO-NLP-SG/RemeMo) &nbsp; [Checkpoints: [RemeMo-base](https://huggingface.co/DAMO-NLP-SG/rememo-base), [RemeMo-large](https://huggingface.co/DAMO-NLP-SG/rememo-large)] \
   **Sen Yang**, Xin Li, Lidong Bing, Wai Lam \
   *Proceedings of EMNLP 2023*
 
@@ -73,11 +85,7 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
   *Proceedings of EMNLP 2020* 
 
 
-## Preprint  
 
-  * [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)  \
-  **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang \
-  *arXiv preprint 2022* 
 
 
 
