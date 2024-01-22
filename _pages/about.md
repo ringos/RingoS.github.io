@@ -32,6 +32,11 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 
 ## Preprints
 
+  * [**SeaLLMs -- Large Language Models for Southeast Asia**](https://arxiv.org/abs/2312.00738)  \
+    [[Code]](https://github.com/DAMO-NLP-SG/SeaLLMs) &nbsp; [[Demo]](https://huggingface.co/SeaLLMs/SeaLLM-13B-Chat) \
+    Xuan-Phi Nguyen, Wenxuan Zhang, Xin Li, Mahani Aljunied, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, **Sen Yang**, Chaoqun Liu, Hang Zhang, Lidong Bing \
+    *arXiv preprint 2023* 
+
   * [**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802)  \
     [[Code]](https://github.com/DAMO-NLP-SG/CaRing) \
     **Sen Yang**, Xin Li, Leyang Cui, Lidong Bing, Wai Lam \
