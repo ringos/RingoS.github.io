@@ -13,17 +13,27 @@ redirect_from:
 
 
 
-Hi, I am a PhD student at The Chinese University of Hong Kong, advised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interest lies in natural language processing. I used to be a research assistant, supervised by [Prof. Yue Zhang](https://frcchang.github.io/). Even before that, I got my bachelor degree from Xi'an Jiaotong University.
+Hi, I am a PhD student at The Chinese University of Hong Kong, advised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interest lies in **natural language processing**. I used to be a research assistant supervised by [Prof. Yue Zhang](https://frcchang.github.io/). Even before that, I got my bachelor degree from Xi'an Jiaotong University.
 
 
 Email: senyang [DOT] stu [AT] gmail [DOT] com
-  
-  
+
 &nbsp;  
+
+
+- [Research Papers](#research-papers)
+  - [Preprints](#preprints)
+  - [Publications](#publications)
+- [Services](#services)
+  - [Peer-review](#peer-review)
+  - [Teaching](#teaching)
+  
   
 &nbsp;  
   
 <!-- &nbsp;   -->
+
+
   
 
 # Research Papers  
@@ -90,7 +100,17 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
   *Proceedings of EMNLP 2020* 
 
 
+# Services
 
+## Peer-review
+I am a regular reviewer for ARR. I have also reviewed papers for the following conferences:
+* ACL 2021
+* EMNLP 2023, 2022, 2021
+
+## Teaching
+I have been a teaching assistant for the following courses at CUHK:
+* SEEM 4630: E-Commerce Data Mining (2023-24 Term 2)
+* ENGG 1130: Multivariable Calculus for Engineers (2022-23 Term 2)
 
 
 
