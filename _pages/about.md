@@ -42,9 +42,6 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 
 ## Preprints
 
-  * [**Not All Preference Pairs Are Created Equal: A Recipe for Annotation-Efficient Iterative Preference Learning**](https://arxiv.org/abs/2406.17312) \
-    **Sen Yang**, Leyang Cui, Deng Cai, Xinting Huang, Shuming Shi, Wai Lam \
-    *arXiv preprint 2024*
 
   * [**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802)  \
     [[Code]](https://github.com/DAMO-NLP-SG/CaRing) \
@@ -57,6 +54,10 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 
 
 ## Publications
+
+* [**Not All Preference Pairs Are Created Equal: A Recipe for Annotation-Efficient Iterative Preference Learning**](https://arxiv.org/abs/2406.17312) \
+    **Sen Yang**, Leyang Cui, Deng Cai, Xinting Huang, Shuming Shi, Wai Lam \
+    *Findings of EMNLP 2024*
 
 * [**SeaLLMs -- Large Language Models for Southeast Asia**](https://arxiv.org/abs/2312.00738)  \
     [[Code]](https://github.com/DAMO-NLP-SG/SeaLLMs) &nbsp; [[Demo]](https://huggingface.co/SeaLLMs/SeaLLM-13B-Chat) \
