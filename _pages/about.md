@@ -13,7 +13,7 @@ redirect_from:
 
 
 
-Hi, I am a PhD student at The Chinese University of Hong Kong, advised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interest lies in **natural language processing**. I used to be a research assistant supervised by [Prof. Yue Zhang](https://frcchang.github.io/). Even before that, I got my bachelor degree from Xi'an Jiaotong University.
+Hi, I am a third-year PhD candidate at The Chinese University of Hong Kong, advised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interest lies in **natural language processing**. I used to be a research assistant supervised by [Prof. Yue Zhang](https://frcchang.github.io/). Even before that, I got my bachelor degree from Xi'an Jiaotong University.
 
 
 Email: senyang [DOT] stu [AT] gmail [DOT] com
@@ -109,7 +109,7 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 # Services
 
 ## Peer-review
-I am a regular reviewer for ARR. I have also reviewed papers for the following conferences:
+I have been a reviewer for multiple rounds of ARR. I have also reviewed papers for the following conferences:
 * ACL 2021
 * EMNLP 2023, 2022, 2021
 
