@@ -22,8 +22,6 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 
 
 - [Research Papers](#research-papers)
-  - [Preprints](#preprints)
-  - [Publications](#publications)
 - [Services](#services)
   - [Peer-review](#peer-review)
   - [Teaching](#teaching)
@@ -39,21 +37,10 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 # Research Papers  
 **( * = equal contribution)**  
 
-
-## Preprints
-
-
-  * [**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802)  \
+* [**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802)  \
     [[Code]](https://github.com/DAMO-NLP-SG/CaRing) \
     **Sen Yang**, Xin Li, Leyang Cui, Lidong Bing, Wai Lam \
-    *arXiv preprint 2023* 
-
-  * [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)  \
-  **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang \
-  *arXiv preprint 2022* 
-
-
-## Publications
+    *Findings of NAACL 2025* 
 
 * [**Not All Preference Pairs Are Created Equal: A Recipe for Annotation-Efficient Iterative Preference Learning**](https://arxiv.org/abs/2406.17312) \
     **Sen Yang**, Leyang Cui, Deng Cai, Xinting Huang, Shuming Shi, Wai Lam \
@@ -78,6 +65,10 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
   [[Code]](https://github.com/goodbai-nlp/AMR-DomainAdaptation) \
   Xuefeng Bai, **Sen Yang**, Leyang Cui, Linfeng Song and Yue Zhang \
   *Proceedings of EMNLP 2022*
+
+* [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)  \
+  **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang \
+  *arXiv preprint 2022* 
 
 * [**Challenges to Open-Domain Constituency Parsing**](https://aclanthology.org/2022.findings-acl.11/) \
   [[Data]](https://github.com/RingoS/multi-domain-parsing-analysis) &nbsp;  [[Annotation_Toolkit]](https://github.com/Nealcly/AnnoCons) \
