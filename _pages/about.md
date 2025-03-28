@@ -35,12 +35,24 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
   
 
 # Research Papers  
-**( * = equal contribution)**  
+**( * = equal contribution)**
+
+* [**Multi-LLM Collaborative Search for Complex Problem Solving**](https://arxiv.org/abs/2502.18873)  \
+  **Sen Yang**, Yafu Li, Wai Lam, Yu Cheng \
+  *arXiv preprint 2025* 
 
 * [**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802)  \
     [[Code]](https://github.com/DAMO-NLP-SG/CaRing) \
     **Sen Yang**, Xin Li, Leyang Cui, Lidong Bing, Wai Lam \
     *Findings of NAACL 2025* 
+
+* [**LoGU: Long-form Generation with Uncertainty Expressions**](https://arxiv.org/abs/2410.14309)  \
+  Ruihan Yang, Caiqi Zhang, Zhisong Zhang, Xinting Huang, **Sen Yang**, Nigel Collier, Dong Yu, Deqing Yang \
+  *arXiv preprint 2024* 
+
+* [**Atomic Calibration of LLMs in Long-Form Generations**](https://arxiv.org/abs/2410.13246)  \
+  Caiqi Zhang, Ruihan Yang, Zhisong Zhang, Xinting Huang, **Sen Yang**, Dong Yu, Nigel Collier \
+  *arXiv preprint 2024* 
 
 * [**Not All Preference Pairs Are Created Equal: A Recipe for Annotation-Efficient Iterative Preference Learning**](https://arxiv.org/abs/2406.17312) \
     **Sen Yang**, Leyang Cui, Deng Cai, Xinting Huang, Shuming Shi, Wai Lam \
@@ -100,13 +112,15 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 # Services
 
 ## Peer-review
-I have been a reviewer for multiple rounds of ARR. I have also reviewed papers for the following conferences:
-* ACL 2021
-* EMNLP 2023, 2022, 2021
+* I am a regular reviewer for ACL Rolling Review (ARR). 
+
+* I have also reviewed papers for the following conferences:
+  * ACL 2021
+  * EMNLP 2023, 2022, 2021
 
 ## Teaching
 I have been a teaching assistant for the following courses at CUHK:
-* SEEM 4630: E-Commerce Data Mining (2023-24 Term 2)
+* SEEM 4630: E-Commerce Data Mining (2023-24 Term 2, 2024-25 Term 2)
 * ENGG 1130: Multivariable Calculus for Engineers (2022-23 Term 2)
 
 
