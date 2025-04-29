@@ -18,7 +18,7 @@ Hi, I am a third-year PhD candidate at The Chinese University of Hong Kong, advi
 
 Email: senyang [DOT] stu [AT] gmail [DOT] com
 
-CV: [This Link](https://github.com/ringos/RingoS.github.io/blob/master/files/Sen_Yang_CV_2025_April.pdf)
+CV: [This Link](https://drive.google.com/file/d/1BOg9N_MEKImdhwy82qtQ95zcE3ctgcac/view?usp=sharing)
 
 &nbsp;  
 
