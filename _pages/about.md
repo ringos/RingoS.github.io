@@ -12,15 +12,14 @@ redirect_from:
 ---
 
 
+Hi, I am a final-year PhD candidate at The Chinese University of Hong Kong, advised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interests lie in **natural language processing** and **large language models**, with a current focus on **pre-training data** at Alibaba Qwen.
 
-Hi, I am a final-year PhD candidate at The Chinese University of Hong Kong, advised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interest lies in **natural language processing**. I used to be a research assistant supervised by [Prof. Yue Zhang](https://frcchang.github.io/). Even before that, I got my bachelor degree from Xi'an Jiaotong University.
+During my PhD studies, I have conducted research at Shanghai AI Lab, Tencent AI Lab, and Alibaba DAMO Academy.
 
+Prior to my PhD, I worked as a research assistant under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). I received my bachelor’s degree from Xi’an Jiaotong University.
 
 Email: senyang [DOT] stu [AT] gmail [DOT] com
 
-CV: [This Link](https://github.com/ringos/RingoS.github.io/blob/master/files/Sen_Yang_CV.pdf)
-
-&nbsp;  
 
 
 - [Research Papers](#research-papers)
