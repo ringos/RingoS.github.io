@@ -12,7 +12,7 @@ redirect_from:
 ---
 
 
-Hi, I am a final-year PhD candidate at The Chinese University of Hong Kong, advised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interests lie in **natural language processing** and **large language models**, with a current focus on **pre-training data** at Alibaba Qwen.
+Hi, I am a final-year PhD candidate at The Chinese University of Hong Kong, advised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research interests lie in **natural language processing** and **large language models**, with a current focus on **injecting world knowledge into [Qwen](https://github.com/QwenLM/Qwen3.6)**.
 
 During my PhD studies, I have conducted research at Shanghai AI Lab, Tencent AI Lab, and Alibaba DAMO Academy.
 
@@ -40,22 +40,22 @@ Email: senyang [DOT] stu [AT] gmail [DOT] com
 
 * [**Multi-LLM Collaborative Search for Complex Problem Solving**](https://arxiv.org/abs/2502.18873)  \
   **Sen Yang**, Yafu Li, Wai Lam, Yu Cheng \
-  *arXiv preprint 2025* 
+  *Findings of ACL 2026* 
 
-* [**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://arxiv.org/abs/2311.09802)  \
+* [**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://aclanthology.org/2025.findings-naacl.317/)  \
     [[Code]](https://github.com/DAMO-NLP-SG/CaRing) \
     **Sen Yang**, Xin Li, Leyang Cui, Lidong Bing, Wai Lam \
     *Findings of NAACL 2025* 
 
-* [**LoGU: Long-form Generation with Uncertainty Expressions**](https://arxiv.org/abs/2410.14309)  \
+* [**LoGU: Long-form Generation with Uncertainty Expressions**](https://aclanthology.org/2025.acl-long.928/)  \
   Ruihan Yang, Caiqi Zhang, Zhisong Zhang, Xinting Huang, **Sen Yang**, Nigel Collier, Dong Yu, Deqing Yang \
-  *arXiv preprint 2024* 
+  *Proceedings of ACL 2025* 
 
-* [**Atomic Calibration of LLMs in Long-Form Generations**](https://arxiv.org/abs/2410.13246)  \
+* [**Atomic Calibration of LLMs in Long-Form Generations**](https://aclanthology.org/2025.findings-ijcnlp.9/)  \
   Caiqi Zhang, Ruihan Yang, Zhisong Zhang, Xinting Huang, **Sen Yang**, Dong Yu, Nigel Collier \
-  *arXiv preprint 2024* 
+  *Findings of IJCNLP&AACL 2025* 
 
-* [**Not All Preference Pairs Are Created Equal: A Recipe for Annotation-Efficient Iterative Preference Learning**](https://arxiv.org/abs/2406.17312) \
+* [**Not All Preference Pairs Are Created Equal: A Recipe for Annotation-Efficient Iterative Preference Learning**](https://aclanthology.org/2024.findings-emnlp.382/) \
     **Sen Yang**, Leyang Cui, Deng Cai, Xinting Huang, Shuming Shi, Wai Lam \
     *Findings of EMNLP 2024*
 
