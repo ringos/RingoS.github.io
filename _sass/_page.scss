@@ -25,6 +25,7 @@
 
   .page__inner-wrap {
     @include full();
+    max-width: 800px;
 
     .page__content,
     .page__meta,
@@ -49,6 +50,85 @@
 }
 
 .page__content {
+  line-height: 1.65;
+
+  .homepage-hero {
+    margin-bottom: 2.5em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid $border-color;
+
+    h1 {
+      margin-bottom: 0.25em;
+      font-size: $type-size-1;
+      letter-spacing: -0.025em;
+    }
+  }
+
+  .homepage-hero__role {
+    margin-bottom: 0.25em;
+    color: $darker-gray;
+    font-size: $type-size-4;
+    font-weight: 600;
+  }
+
+  .homepage-hero__focus {
+    margin-bottom: 1.25em;
+    color: $gray;
+  }
+
+  .homepage-hero__links,
+  .publication__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+
+    a {
+      padding: 0.35em 0.75em;
+      border: 1px solid $border-color;
+      border-radius: $border-radius;
+      text-decoration: none;
+
+      &:hover {
+        border-color: $link-color;
+        text-decoration: none;
+      }
+    }
+  }
+
+  .publication-note {
+    color: $gray;
+    font-size: 0.875em;
+  }
+
+  .publication {
+    margin-bottom: 1.75em;
+
+    h4 {
+      margin: 0 0 0.3em;
+      font-size: 1.0625em;
+      line-height: 1.4;
+    }
+
+    p {
+      margin-bottom: 0.2em;
+    }
+  }
+
+  .publication__authors {
+    color: $dark-gray;
+    font-size: 0.9375em;
+  }
+
+  .publication__venue {
+    color: $gray;
+    font-size: 0.875em;
+    font-style: italic;
+  }
+
+  .publication__links {
+    margin-top: 0.65em;
+    font-size: 0.8125em;
+  }
 
   h2 {
     padding-bottom: 0.5em;
