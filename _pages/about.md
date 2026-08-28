@@ -10,197 +10,155 @@ redirect_from:
   - /about.html
   - /aboutme/
 ---
-
+<header class="homepage-hero">
+  <h1>Sen Yang</h1>
+  <p class="homepage-hero__role">Final-year PhD Candidate at The Chinese University of Hong Kong</p>
+  <p class="homepage-hero__focus">Natural Language Processing · Large Language Models · LLM Pre-training &amp; Mid-training</p>
+  <nav class="homepage-hero__links" aria-label="Profile links">
+    <a href="https://scholar.google.com/citations?user=FNq7gCcAAAAJ&amp;hl=en">Google Scholar</a>
+    <a href="https://github.com/RingoS">GitHub</a>
+    <a href="mailto:senyang.stu@gmail.com">Email</a>
+  </nav>
+</header>
 
 Hi, I am a final-year PhD candidate at The Chinese University of Hong Kong, advised by [Prof. Wai Lam](https://www.se.cuhk.edu.hk/people/academic-staff/prof-lam-wai/). My research focuses on **natural language processing** and **large language models**. More recently, I have been working at Qwen on **pre-training and mid-training** of LLMs.
 
 During my PhD, I have conducted research at **Shanghai AI Lab**, **Tencent AI Lab**, and **Alibaba DAMO Academy**. Prior to starting my PhD, I worked as a research assistant under the supervision of [Prof. Yue Zhang](https://frcchang.github.io/). I received my bachelor’s degree from **Xi’an Jiaotong University**.
 
-Email: senyang [DOT] stu [AT] gmail [DOT] com
 
+## Research Papers
 
+<p class="publication-note">* indicates equal contribution.</p>
 
-- [Research Papers](#research-papers)
-- [Services](#services)
-  - [Peer-review](#peer-review)
-  - [Teaching](#teaching)
-  
-  
-&nbsp;  
-  
-<!-- &nbsp;   -->
+### 2026
 
+<article class="publication">
+  <h4>Multi-LLM Collaborative Search for Complex Problem Solving</h4>
+  <p class="publication__authors"><strong>Sen Yang</strong>, Yafu Li, Wai Lam, Yu Cheng</p>
+  <p class="publication__venue">Findings of ACL 2026</p>
+  <p class="publication__links"><a href="https://arxiv.org/abs/2502.18873">Paper</a></p>
+</article>
 
-  
+### 2025
 
-# Research Papers  
-**( * = equal contribution)**
+<article class="publication">
+  <h4>Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs</h4>
+  <p class="publication__authors"><strong>Sen Yang</strong>, Xin Li, Leyang Cui, Lidong Bing, Wai Lam</p>
+  <p class="publication__venue">Findings of NAACL 2025</p>
+  <p class="publication__links"><a href="https://aclanthology.org/2025.findings-naacl.317/">Paper</a><a href="https://github.com/DAMO-NLP-SG/CaRing">Code</a></p>
+</article>
 
-* [**Multi-LLM Collaborative Search for Complex Problem Solving**](https://arxiv.org/abs/2502.18873)  \
-  **Sen Yang**, Yafu Li, Wai Lam, Yu Cheng \
-  *Findings of ACL 2026* 
+<article class="publication">
+  <h4>LoGU: Long-form Generation with Uncertainty Expressions</h4>
+  <p class="publication__authors">Ruihan Yang, Caiqi Zhang, Zhisong Zhang, Xinting Huang, <strong>Sen Yang</strong>, Nigel Collier, Dong Yu, Deqing Yang</p>
+  <p class="publication__venue">Proceedings of ACL 2025</p>
+  <p class="publication__links"><a href="https://aclanthology.org/2025.acl-long.928/">Paper</a></p>
+</article>
 
-* [**Neuro-Symbolic Integration Brings Causal and Reliable Reasoning Proofs**](https://aclanthology.org/2025.findings-naacl.317/)  \
-    [[Code]](https://github.com/DAMO-NLP-SG/CaRing) \
-    **Sen Yang**, Xin Li, Leyang Cui, Lidong Bing, Wai Lam \
-    *Findings of NAACL 2025* 
+<article class="publication">
+  <h4>Atomic Calibration of LLMs in Long-Form Generations</h4>
+  <p class="publication__authors">Caiqi Zhang, Ruihan Yang, Zhisong Zhang, Xinting Huang, <strong>Sen Yang</strong>, Dong Yu, Nigel Collier</p>
+  <p class="publication__venue">Findings of IJCNLP &amp; AACL 2025</p>
+  <p class="publication__links"><a href="https://aclanthology.org/2025.findings-ijcnlp.9/">Paper</a></p>
+</article>
 
-* [**LoGU: Long-form Generation with Uncertainty Expressions**](https://aclanthology.org/2025.acl-long.928/)  \
-  Ruihan Yang, Caiqi Zhang, Zhisong Zhang, Xinting Huang, **Sen Yang**, Nigel Collier, Dong Yu, Deqing Yang \
-  *Proceedings of ACL 2025* 
+### 2024
 
-* [**Atomic Calibration of LLMs in Long-Form Generations**](https://aclanthology.org/2025.findings-ijcnlp.9/)  \
-  Caiqi Zhang, Ruihan Yang, Zhisong Zhang, Xinting Huang, **Sen Yang**, Dong Yu, Nigel Collier \
-  *Findings of IJCNLP&AACL 2025* 
+<article class="publication">
+  <h4>Not All Preference Pairs Are Created Equal: A Recipe for Annotation-Efficient Iterative Preference Learning</h4>
+  <p class="publication__authors"><strong>Sen Yang</strong>, Leyang Cui, Deng Cai, Xinting Huang, Shuming Shi, Wai Lam</p>
+  <p class="publication__venue">Findings of EMNLP 2024</p>
+  <p class="publication__links"><a href="https://aclanthology.org/2024.findings-emnlp.382/">Paper</a></p>
+</article>
 
-* [**Not All Preference Pairs Are Created Equal: A Recipe for Annotation-Efficient Iterative Preference Learning**](https://aclanthology.org/2024.findings-emnlp.382/) \
-    **Sen Yang**, Leyang Cui, Deng Cai, Xinting Huang, Shuming Shi, Wai Lam \
-    *Findings of EMNLP 2024*
+<article class="publication">
+  <h4>SeaLLMs — Large Language Models for Southeast Asia</h4>
+  <p class="publication__authors">Xuan-Phi Nguyen*, Wenxuan Zhang*, Xin Li*, Mahani Aljunied*, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, <strong>Sen Yang</strong>, Chaoqun Liu, Hang Zhang, Lidong Bing</p>
+  <p class="publication__venue">Proceedings of ACL 2024: System Demonstrations</p>
+  <p class="publication__links"><a href="https://arxiv.org/abs/2312.00738">Paper</a><a href="https://github.com/DAMO-NLP-SG/SeaLLMs">Code</a><a href="https://huggingface.co/SeaLLMs/SeaLLM-13B-Chat">Demo</a></p>
+</article>
 
-* [**SeaLLMs -- Large Language Models for Southeast Asia**](https://arxiv.org/abs/2312.00738)  \
-    [[Code]](https://github.com/DAMO-NLP-SG/SeaLLMs) &nbsp; [[Demo]](https://huggingface.co/SeaLLMs/SeaLLM-13B-Chat) \
-    Xuan-Phi Nguyen\*, Wenxuan Zhang\*, Xin Li\*, Mahani Aljunied\*, Qingyu Tan, Liying Cheng, Guanzheng Chen, Yue Deng, **Sen Yang**, Chaoqun Liu, Hang Zhang, Lidong Bing \
-    *Proceedings of the ACL 2024: System Demonstrations* 
+### 2023
 
-* [**Once Upon a *Time* in *Graph*: Relative-Time Pretraining for Complex Temporal Reasoning**](https://arxiv.org/abs/2310.14709) \
-  [[Code]](https://github.com/DAMO-NLP-SG/RemeMo) &nbsp; [Checkpoints: [RemeMo-base](https://huggingface.co/DAMO-NLP-SG/rememo-base), [RemeMo-large](https://huggingface.co/DAMO-NLP-SG/rememo-large)] \
-  **Sen Yang**, Xin Li, Lidong Bing, Wai Lam \
-  *Proceedings of EMNLP 2023*
+<article class="publication">
+  <h4>Once Upon a <em>Time</em> in <em>Graph</em>: Relative-Time Pretraining for Complex Temporal Reasoning</h4>
+  <p class="publication__authors"><strong>Sen Yang</strong>, Xin Li, Lidong Bing, Wai Lam</p>
+  <p class="publication__venue">Proceedings of EMNLP 2023</p>
+  <p class="publication__links"><a href="https://arxiv.org/abs/2310.14709">Paper</a><a href="https://github.com/DAMO-NLP-SG/RemeMo">Code</a><a href="https://huggingface.co/DAMO-NLP-SG/rememo-base">Base checkpoint</a><a href="https://huggingface.co/DAMO-NLP-SG/rememo-large">Large checkpoint</a></p>
+</article>
 
-* [**Enhancing Grammatical Error Correction Systems with Explanations**](https://aclanthology.org/2023.acl-long.413/) \
-  [[Dataset]](https://github.com/lorafei/Explainable_GEC) \
-  Yuejiao Fei, Leyang Cui, **Sen Yang**, Wai Lam, Zhenzhong Lan and Shuming Shi \
-  *Proceedings of ACL 2023*
+<article class="publication">
+  <h4>Enhancing Grammatical Error Correction Systems with Explanations</h4>
+  <p class="publication__authors">Yuejiao Fei, Leyang Cui, <strong>Sen Yang</strong>, Wai Lam, Zhenzhong Lan and Shuming Shi</p>
+  <p class="publication__venue">Proceedings of ACL 2023</p>
+  <p class="publication__links"><a href="https://aclanthology.org/2023.acl-long.413/">Paper</a><a href="https://github.com/lorafei/Explainable_GEC">Dataset</a></p>
+</article>
 
-* [**Cross-domain Generalization for AMR Parsing**](https://aclanthology.org/2022.emnlp-main.749/) \
-  [[Code]](https://github.com/goodbai-nlp/AMR-DomainAdaptation) \
-  Xuefeng Bai, **Sen Yang**, Leyang Cui, Linfeng Song and Yue Zhang \
-  *Proceedings of EMNLP 2022*
+### 2022
 
-* [**Do Prompts Solve NLP Tasks Using Natural Language?**](https://arxiv.org/abs/2203.00902)  \
-  **Sen Yang\***, Yunchen Zhang\*, Leyang Cui and Yue Zhang \
-  *arXiv preprint 2022* 
+<article class="publication">
+  <h4>Cross-domain Generalization for AMR Parsing</h4>
+  <p class="publication__authors">Xuefeng Bai, <strong>Sen Yang</strong>, Leyang Cui, Linfeng Song and Yue Zhang</p>
+  <p class="publication__venue">Proceedings of EMNLP 2022</p>
+  <p class="publication__links"><a href="https://aclanthology.org/2022.emnlp-main.749/">Paper</a><a href="https://github.com/goodbai-nlp/AMR-DomainAdaptation">Code</a></p>
+</article>
 
-* [**Challenges to Open-Domain Constituency Parsing**](https://aclanthology.org/2022.findings-acl.11/) \
-  [[Data]](https://github.com/RingoS/multi-domain-parsing-analysis) &nbsp;  [[Annotation_Toolkit]](https://github.com/Nealcly/AnnoCons) \
-  **Sen Yang**, Leyang Cui, Ruoxi Ning, Di Wu and Yue Zhang \
-  *Findings of ACL 2022* 
+<article class="publication">
+  <h4>Do Prompts Solve NLP Tasks Using Natural Language?</h4>
+  <p class="publication__authors"><strong>Sen Yang*</strong>, Yunchen Zhang*, Leyang Cui and Yue Zhang</p>
+  <p class="publication__venue">arXiv preprint, 2022</p>
+  <p class="publication__links"><a href="https://arxiv.org/abs/2203.00902">Paper</a></p>
+</article>
 
-* [**Investigating Non-local Features for Neural Constituency Parsing**](https://aclanthology.org/2022.acl-long.146/)  \
-[[Code]](https://github.com/RingoS/nfc-parser) \
-  Leyang Cui\*, **Sen Yang\*** and Yue Zhang \
-  *Proceedings of ACL 2022* 
+<article class="publication">
+  <h4>Challenges to Open-Domain Constituency Parsing</h4>
+  <p class="publication__authors"><strong>Sen Yang</strong>, Leyang Cui, Ruoxi Ning, Di Wu and Yue Zhang</p>
+  <p class="publication__venue">Findings of ACL 2022</p>
+  <p class="publication__links"><a href="https://aclanthology.org/2022.findings-acl.11/">Paper</a><a href="https://github.com/RingoS/multi-domain-parsing-analysis">Data</a><a href="https://github.com/Nealcly/AnnoCons">Annotation toolkit</a></p>
+</article>
 
-* [**Template-Based Named Entity Recognition Using BART**](https://aclanthology.org/2021.findings-acl.161) \
-[[Code]](https://github.com/Nealcly/templateNER) \
-  Leyang Cui, Yu Wu, Jian Liu, **Sen Yang** and Yue Zhang \
-  *Findings of ACL 2021* 
+<article class="publication">
+  <h4>Investigating Non-local Features for Neural Constituency Parsing</h4>
+  <p class="publication__authors">Leyang Cui*, <strong>Sen Yang*</strong> and Yue Zhang</p>
+  <p class="publication__venue">Proceedings of ACL 2022</p>
+  <p class="publication__links"><a href="https://aclanthology.org/2022.acl-long.146/">Paper</a><a href="https://github.com/RingoS/nfc-parser">Code</a></p>
+</article>
 
-* [**Making the Best Use of Review Summary for Sentiment Analysis**](https://www.aclweb.org/anthology/2020.coling-main.15) \
-[[Code]](https://github.com/RingoS/sentiment-review-summary) \
-  **Sen Yang\***, Leyang Cui\*, Jun Xie and Yue Zhang \
-  *Proceedings of COLING 2020* 
+### 2021
 
-* [**What Have We Achieved on Text Summarization?**](https://www.aclweb.org/anthology/2020.emnlp-main.33)  \
-[[Code & Data]](https://github.com/hddbang/PolyTope) \
-  Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang \
-  *Proceedings of EMNLP 2020* 
+<article class="publication">
+  <h4>Template-Based Named Entity Recognition Using BART</h4>
+  <p class="publication__authors">Leyang Cui, Yu Wu, Jian Liu, <strong>Sen Yang</strong> and Yue Zhang</p>
+  <p class="publication__venue">Findings of ACL 2021</p>
+  <p class="publication__links"><a href="https://aclanthology.org/2021.findings-acl.161">Paper</a><a href="https://github.com/Nealcly/templateNER">Code</a></p>
+</article>
 
-&nbsp;  
+### 2020
 
-# Services
+<article class="publication">
+  <h4>Making the Best Use of Review Summary for Sentiment Analysis</h4>
+  <p class="publication__authors"><strong>Sen Yang*</strong>, Leyang Cui*, Jun Xie and Yue Zhang</p>
+  <p class="publication__venue">Proceedings of COLING 2020</p>
+  <p class="publication__links"><a href="https://www.aclweb.org/anthology/2020.coling-main.15">Paper</a><a href="https://github.com/RingoS/sentiment-review-summary">Code</a></p>
+</article>
 
-## Peer-review
+<article class="publication">
+  <h4>What Have We Achieved on Text Summarization?</h4>
+  <p class="publication__authors">Dandan Huang*, Leyang Cui*, <strong>Sen Yang*</strong>, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang</p>
+  <p class="publication__venue">Proceedings of EMNLP 2020</p>
+  <p class="publication__links"><a href="https://www.aclweb.org/anthology/2020.emnlp-main.33">Paper</a><a href="https://github.com/hddbang/PolyTope">Code &amp; Data</a></p>
+</article>
+
+## Services
+
+### Peer-review
 * I am a regular reviewer for ACL Rolling Review (ARR). 
 
 * I have also reviewed papers for the following conferences:
   * ACL 2021
   * EMNLP 2023, 2022, 2021
 
-## Teaching
+### Teaching
 I have been a teaching assistant for the following courses at CUHK:
 * SEEM 4630: E-Commerce Data Mining (2023-24 Term 2, 2024-25 Term 2)
 * ENGG 1130: Multivariable Calculus for Engineers (2022-23 Term 2)
-
-
-
-<!-- # Publications
-
-## Published
-
-  ( * indicates equal contribution)
-
-
-* **Challenges to Open-Domain Constituency Parsing** \
-  in Findings of ACL, 2022 \
-  **Sen Yang**, Leyang Cui, Ruoxi Ning, Di Wu and Yue Zhang
-
-* **Investigating Non-local Features for Neural Constituency Parsing** \
-  in Proceedings of ACL, 2022 \
-  Leyang Cui\*, **Sen Yang\*** and Yue Zhang
-
-* **Template-Based Named Entity Recognition Using BART** [[pdf](https://aclanthology.org/2021.findings-acl.161.pdf)] [[bib](https://aclanthology.org/2021.findings-acl.161.bib)] \
-  in Findings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL), 2021 \
-  Leyang Cui, Yu Wu, Jian Liu, **Sen Yang** and Yue Zhang
-
-* **Making the Best Use of Review Summary for Sentiment Analysis** [[pdf](https://www.aclweb.org/anthology/2020.coling-main.15.pdf)] [[bib](https://www.aclweb.org/anthology/2020.coling-main.15.bib)] \
-  in Proceedings of the 28th International Conference on Computational Linguistics (COLING), 2020 \
-  **Sen Yang\***, Leyang Cui\*, Jun Xie and Yue Zhang
-
-* **What Have We Achieved on Text Summarization?** [[pdf](https://www.aclweb.org/anthology/2020.emnlp-main.33.pdf)] [[bib](https://www.aclweb.org/anthology/2020.emnlp-main.33.bib)] \
-  in Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020 \
-  Dandan Huang\*, Leyang Cui\*, **Sen Yang\***, Guangsheng Bao, Kun Wang, Jun Xie and Yue Zhang
-
-
-## Preprint
-
-  ( * indicates equal contribution) -->
-
-
-
-<!-- * **Investigating Non-local Features for Neural Constituency Parsing** [[pdf](https://arxiv.org/abs/2109.12814)]  \
-  arXiv prepreint \
-  Leyang Cui\*, **Sen Yang\*** and Yue Zhang -->
-
-
-
-<!--
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
--->
